@@ -2,6 +2,9 @@
 
 QBCore altyapısı için `b4res` tarafından geliştirilen, yapılandırılabilir çoklu blip scriptidir.
 
+## 📷 Showcase
+![Image](https://github.com/user-attachments/assets/bef78df6-4e35-4d56-a185-afc040955d66)
+
 ## 🔧 Özellikler
 
 - Kolay `config.lua` üzerinden blip tanımlama
