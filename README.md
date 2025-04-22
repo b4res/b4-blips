@@ -10,7 +10,7 @@ QBCore altyapısı için `b4res` tarafından geliştirilen, yapılandırılabili
 - Performans dostu yapı
 
 ## 🧾 Kurulum
-
+- Klasör ismini `b4-blips` olarak düzenleyin.
 1. `b4-blips` klasörünü `resources` dizinine atın.
 2. `server.cfg` içerisine aşağıdaki satırı ekleyin:
    ```
